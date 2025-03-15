@@ -1,4 +1,4 @@
-package docxtopdf
+package docx2pdf
 
 import (
 	"archive/zip"
